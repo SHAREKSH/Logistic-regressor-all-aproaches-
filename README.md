@@ -1,5 +1,9 @@
 #𝘽𝙪𝙞𝙡𝙙𝙞𝙣𝙜 𝙇𝙤𝙜𝙞𝙨𝙩𝙞𝙘 𝙍𝙚𝙜𝙧𝙚𝙨𝙨𝙤𝙧 𝙛𝙤𝙧𝙢 𝙨𝙘𝙧𝙖𝙩𝙘𝙝
 
+
+
+@notebook link:https://colab.research.google.com/drive/1tY1BFQ95sc7J6VB7jmwVUb37kkmgecA0?usp=sharing
+
 Approach 1: Brute Force
 
 1."Unlock the basics: Learn how brute force can be applied to logistic regression for binary classification!" 
